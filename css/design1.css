@@ -1,0 +1,97 @@
+.container {
+    margin: 0%;
+    font-family: monospace;
+    display: flex;
+    background-color: wheat;
+    flex-wrap: wrap;
+}
+
+/* part 1 */
+
+.part1 {
+width: 100%;
+display: flex;
+align-items: center;
+justify-content: space-between; 
+padding-right: 5%;
+}
+
+.item1-1 {
+    display: flex;
+    align-items: center;
+
+}
+
+.element1-1-1 {
+margin-left: 20%;
+}
+
+.element1-1-2 {
+    font-size: xxx-large;
+    margin-left: 10%;
+}
+
+.item1-2 {
+    display: flex;
+    align-items: center;
+    
+    /* margin-left: 27%; */
+}
+
+.element1-2-1 {
+    font-size: x-large;
+    margin-right: 10%;
+}
+
+.element1-2-2 {
+    font-size: x-large;
+    margin-right: 10%;
+
+}
+
+.element1-2-3 {
+    font-size: x-large;
+
+}
+
+/* ____________________________________________ */
+
+/* part 2 */
+
+.part2 {
+    width: 100%;
+    
+}
+
+.item2-1 {
+    text-align: center;
+}
+
+.item2-2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.card1-3 {
+    box-shadow: 2px 3px 5px rgba(255, 122, 33, 0.685);
+
+}
+
+.card1-3:hover {
+    border: 7.5px solid ;
+    border-color: beige;
+}
+
+/* ____________________________________________ */
+
+/* part 3 */
+
+.part3 {
+    margin: 5%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
+}
